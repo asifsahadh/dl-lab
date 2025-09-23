@@ -6,4 +6,5 @@ emotion
 stack-exchange
 face
 sms-spam-collection
-.gitignore
+sms-spam-collection\SMSSpamCollection
+sms-spam-collection\readme
