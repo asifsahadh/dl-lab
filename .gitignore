@@ -5,3 +5,5 @@ diabetes.csv
 emotion
 stack-exchange
 face
+sms-spam-collection
+.gitignore
